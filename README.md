@@ -1,6 +1,6 @@
 # DevOps Capstone Project – Accounts Service
 
-![Build Status](https://github.com/The-Creative-Developer/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+![Build Status](https://github.com/bhargav8-hub/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.9-blue)
 
 A RESTful **Customer Accounts microservice** built with Flask for the IBM DevOps Capstone Project
